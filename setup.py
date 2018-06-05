@@ -21,6 +21,6 @@ setup(
    url='https://github.com/hericlesme/pyStream',
    author='Héricles Emanuel',
    author_email='hericles.me@gmail.com',
-   packages=['pyStream'],
+   packages=['src'],
    install_requires=['pillow', 'pyscreenshot', 'flask'],
 )
